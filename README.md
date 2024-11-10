@@ -1,4 +1,4 @@
-# InstagramProject2
+# Instagram Project
 
 **InstagramProject2**, **staj sürecinde** geliştirilmiş bir **Instagram otomasyon** uygulamasıdır. Bu proje, belirli bir Instagram kullanıcısına giriş yaparak, kullanıcının tüm gönderilerini otomatik olarak beğenen bir test otomasyonudur. Web otomasyonu sağlamak amacıyla kullanılan bu proje, Instagram üzerindeki etkileşimleri hızlı ve verimli bir şekilde gerçekleştirir.
 
