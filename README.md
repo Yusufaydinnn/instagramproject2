@@ -1,4 +1,4 @@
-# Instagram Project
+# InstagramProject2
 
 **InstagramProject2**, **staj sürecinde** geliştirilmiş bir **Instagram otomasyon** uygulamasıdır. Bu proje, belirli bir Instagram kullanıcısına giriş yaparak, kullanıcının tüm gönderilerini otomatik olarak beğenen bir test otomasyonudur. Web otomasyonu sağlamak amacıyla kullanılan bu proje, Instagram üzerindeki etkileşimleri hızlı ve verimli bir şekilde gerçekleştirir.
 
@@ -42,6 +42,9 @@
 
 - ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) **Selenium**  
   Web otomasyonu için Selenium WebDriver kullanılmıştır. Instagram'da arama yapma, beğeni ekleme ve sayfalar arasında geçiş yapma işlemleri Selenium ile gerçekleştirilmiştir.
+
+- ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) **Maven**  
+  Projede bağımlılık yönetimi için Maven kullanılmıştır. Maven, proje bağımlılıklarını yönetir ve geliştirme sürecini kolaylaştırır.
 
 - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) **IntelliJ IDEA**  
   Geliştirme ortamı olarak IntelliJ IDEA kullanılmıştır.
