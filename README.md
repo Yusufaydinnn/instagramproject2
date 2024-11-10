@@ -24,13 +24,18 @@
 4. **Belirlenen Kullanıcıyı Bulma**  
    Giriş yapıldıktan sonra, kullanıcı arama kısmına gelerek, belirlenen Instagram kullanıcısının profilini bulur. Bu işlem, hedef kullanıcının doğru şekilde tespit edilmesini sağlar.
 
-5. **Gönderileri Görüntüleme**  
+   ![Açıklama Metni](https://i.hizliresim.com/b3v9e3t.jpg)
+
+6. **Gönderileri Görüntüleme**  
    Hedef kullanıcı profiline gidildikten sonra, tüm paylaşılan gönderiler sırasıyla yüklenir ve görüntülenir. Bu aşama, kullanıcının gönderilerini beğenmek için gereklidir.
 
-6. **Gönderilere Beğeni Yapma**  
+7. **Gönderilere Beğeni Yapma**  
    Tüm gönderiler yüklendikten sonra, sistem her bir gönderiyi sırasıyla beğenir. Bu işlem, birden fazla gönderiye otomatik olarak etkileşimde bulunmak için yapılır.
+   
+ ![Açıklama Metni](https://i.hizliresim.com/6ar83uu.jpg)
+   
 
-7. **Son İşlem**  
+9. **Son İşlem**  
    Gönderilere beğeni yapıldıktan sonra, otomasyon sonlandırılır. Sistem, tarayıcıyı kapatarak işlemi tamamlar.
 
 ---
